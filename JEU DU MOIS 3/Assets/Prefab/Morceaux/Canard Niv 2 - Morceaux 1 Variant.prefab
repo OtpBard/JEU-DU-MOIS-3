@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!60 &2176411602213503682
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789288524527116921}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 3.5672128, y: 3.3999999}
+    newSize: {x: 3.5672128, y: 3.3999999}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.25081965, y: -0.8918032}
+      - {x: 0.25081965, y: -0.6827868}
+      - {x: 0.2229508, y: -0.6131147}
+      - {x: -0.20901638, y: -0.40409833}
+      - {x: -0.6827868, y: -0.29262292}
+      - {x: -0.8918032, y: -0.3204918}
+      - {x: -1.0590163, y: -0.3901639}
+      - {x: -1.2540983, y: -0.2229508}
+      - {x: -1.3377048, y: -0.20901638}
+      - {x: -1.4631146, y: -0.20901638}
+      - {x: -1.5327867, y: -0.25081965}
+      - {x: -1.5467212, y: -0.36229506}
+      - {x: -1.5467212, y: -0.75245893}
+      - {x: -1.4073769, y: -1.0311475}
+      - {x: -1.0729507, y: -1.3237704}
+      - {x: -0.8778688, y: -1.4213114}
+      - {x: -0.3901639, y: -1.4213114}
+      - {x: -0.29262292, y: -1.3934425}
+      - {x: 0.02786885, y: -1.2122949}
+      - {x: 0.19508195, y: -1.0311475}
+--- !u!1001 &7598085585152056591
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4427840072412421244, guid: 35ec46670e454ad4ab0b0cf9b6cf7e41, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177489863090423051, guid: 35ec46670e454ad4ab0b0cf9b6cf7e41, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177489863090423051, guid: 35ec46670e454ad4ab0b0cf9b6cf7e41, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -11.925419
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177489863090423051, guid: 35ec46670e454ad4ab0b0cf9b6cf7e41, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.983479
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177489863090423051, guid: 35ec46670e454ad4ab0b0cf9b6cf7e41, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177489863090423051, guid: 35ec46670e454ad4ab0b0cf9b6cf7e41, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177489863090423051, guid: 35ec46670e454ad4ab0b0cf9b6cf7e41, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177489863090423051, guid: 35ec46670e454ad4ab0b0cf9b6cf7e41, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177489863090423051, guid: 35ec46670e454ad4ab0b0cf9b6cf7e41, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177489863090423051, guid: 35ec46670e454ad4ab0b0cf9b6cf7e41, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177489863090423051, guid: 35ec46670e454ad4ab0b0cf9b6cf7e41, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177489863090423051, guid: 35ec46670e454ad4ab0b0cf9b6cf7e41, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6653373806391993216, guid: 35ec46670e454ad4ab0b0cf9b6cf7e41, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 2acbb2519dbea81438b7a3b0958aa27a, type: 3}
+    - target: {fileID: 8188959174917242742, guid: 35ec46670e454ad4ab0b0cf9b6cf7e41, type: 3}
+      propertyPath: m_Name
+      value: Canard Niv 2 - Morceaux 1 Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 7494022612190879834, guid: 35ec46670e454ad4ab0b0cf9b6cf7e41, type: 3}
+    - {fileID: 4427840072412421244, guid: 35ec46670e454ad4ab0b0cf9b6cf7e41, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 35ec46670e454ad4ab0b0cf9b6cf7e41, type: 3}
+--- !u!1 &1789288524527116921 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8188959174917242742, guid: 35ec46670e454ad4ab0b0cf9b6cf7e41, type: 3}
+  m_PrefabInstance: {fileID: 7598085585152056591}
+  m_PrefabAsset: {fileID: 0}
